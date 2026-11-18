@@ -1,0 +1,22 @@
+# Résultats d'exécution (peuvent contenir des noms de postes)
+*.csv
+*.html
+*.log
+*.txt
+
+# Transcriptions PowerShell
+PowerShell_transcript*
+
+# Fichiers de configuration locaux
+*.local.ps1
+*.local.psd1
+
+# Éditeurs
+.vscode/
+.idea/
+*.swp
+
+# Système
+Thumbs.db
+Desktop.ini
+.DS_Store
